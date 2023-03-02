@@ -4,12 +4,12 @@ Proposta do trabalho: A Resilia está pensando em lançar um novo sistema de aco
 
 # Resolução:
 
-1 - Existem outras entidades além dessas três?
+# 1 - Existem outras entidades além dessas três?
 
 Não
 
 
-2 - Quais são os principais campos e tipos?
+# 2 - Quais são os principais campos e tipos?
 
 
 create table Curso(
@@ -31,12 +31,12 @@ coordenador varchar(20) not null
 
 
 
-3- Como essas entidades estão relacionadas?
+# 3- Como essas entidades estão relacionadas?
 Segue imagem abaixo com o modelo:
 
 ![modelo wash](https://user-images.githubusercontent.com/113737159/222011932-99ca3082-0606-49cf-b3f9-89ae83a15c41.JPG)
 
 
-Exemplo de SELECT na tabela Curso:
+# Exemplo de SELECT na tabela Curso:
 
 ![select curso](https://user-images.githubusercontent.com/113737159/222299635-92c05276-855f-436c-9226-9a7d02228062.jpg)
