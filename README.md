@@ -5,6 +5,7 @@ Proposta do trabalho: A Resilia está pensando em lançar um novo sistema de aco
 # Resolução:
 
 1 - Existem outras entidades além dessas três?
+
 Não
 
 
